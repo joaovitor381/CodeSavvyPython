@@ -3,7 +3,7 @@
 
 ## Sobre o Repositório
 
-O PyWizardry é uma jornada mágica para explorar o mundo da programação com Python. Neste repositório, você encontrará uma coleção abrangente de recursos, exemplos e projetos para ajudá-lo(a) a aprender Python desde o básico até o avançado. Desenvolvido para encantar e desafiar, o PyWizardry é uma fonte poderosa de conhecimento e magia do código.
+O PyWizardry é uma jornada mágica para explorar o mundo da programação com Python. Neste repositório, você encontrará uma coleção abrangente de recursos, exemplos e projetos para ajudá-lo(a) a aprender Python desde o básico até o avançado. Desenvolvido para desafiar e aprimorar seu conhecimento.
 
 ## Conteúdo
 
