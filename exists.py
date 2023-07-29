@@ -1,8 +1,11 @@
 import os
 
-# "exists" serve para identificar se a pasta ou arquivo existe
-print(os.path.exists("fatorial.py"))
-print(os.path.exists("boolean.py"))
-print(os.path.exists("primo.py"))
-print(os.path.exists("concatenacao.py"))
-print(os.path.exists("geradordesenhas.py"))
+# Lista de arquivos a serem verificados
+arquivos = ["fatorial.py", "boolean.py", "primo.py", "concatenacao.py", "geradordesenhas.py"]
+
+# Verificar a existência de cada arquivo e imprimir o resultado
+for arquivo in arquivos:
+    if os.path.exists(arquivo):
+        print(f"O arquivo '{arquivo}' existe.")
+    else:
+        print(f"O arquivo '{arquivo}' não existe.")
