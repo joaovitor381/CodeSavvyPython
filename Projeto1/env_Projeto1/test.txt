@@ -1,0 +1,28 @@
+Meu Projeto em Python
+-----------------------------
+
+Descrição:
+Meu projeto é uma aplicação de lista de tarefas simples, feita em Python, para ajudar os usuários a organizarem suas atividades diárias.
+
+Tecnologias Utilizadas:
+- Python 3.11.1
+
+Funcionalidades:
+1. Adicionar tarefa: Os usuários podem adicionar tarefas à lista, inserindo uma descrição.
+2. Excluir tarefa: Os usuários podem remover tarefas da lista.
+3. Listar tarefas: As tarefas são exibidas na ordem em que foram adicionadas.
+
+Exemplo de Código:
+# Aqui está uma função que adiciona uma tarefa à lista
+
+def adicionar_tarefa(descricao, lista_tarefas):
+    lista_tarefas.append(descricao)
+
+# Mais código relevante aqui...
+
+Aprendizados:
+Durante o desenvolvimento deste projeto, aprendi sobre manipulação de listas em Python e como criar uma aplicação simples de linha de comando.
+
+Melhorias Futuras:
+No futuro, pretendo adicionar mais recursos, como a possibilidade de definir prazos e prioridades para as tarefas.
+
